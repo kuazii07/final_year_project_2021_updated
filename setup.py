@@ -21,7 +21,6 @@ setup(
     version="0.0.1",
     author="Noel Kuasmapa",
     packages=find_packages(),
-
     author_email = "noeljackkuasmapa@gmail.com",
     install_requires = get_requiremnets("requirements.txt")
 )    
