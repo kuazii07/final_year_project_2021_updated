@@ -148,6 +148,7 @@ activemq-data/
 *.sage.py
 
 # Environments
+visual_malware_classification.egg-info/
 .env
 .envrc
 .venv
